@@ -1,0 +1,18 @@
+h1{
+    color: blue;
+}
+.valobasa{
+    height: 200px;
+    width: 200px;
+    background: rgb(21, 185, 95);
+
+}
+.rezaul li:first-child a{
+   color: tomato;
+}
+.rezaul li:last-child a{
+    color: tomato;
+ }
+div p{
+    color: rgb(184, 10, 10);
+}
